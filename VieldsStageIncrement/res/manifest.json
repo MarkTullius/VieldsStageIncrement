@@ -3,7 +3,7 @@
   "author": "MarkTullius",
   "authorName": "MarkTullius",
   "version_number": "1.0.0",
-  "website_url": "",
+  "website_url": "https://github.com/MarkTullius/VieldsStageIncrement",
   "description": "Makes Void Fields increment the stage count again by defining the new TimedIntermission SceneType that is missing from the current version of the RoR2 nuget package and allowing it to increment.",
   "dependencies": [
     "bbepis-BepInExPack-5.4.2100",
